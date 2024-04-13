@@ -1,0 +1,6 @@
+com\esapiFilter\servlet\EsapiServlet.class
+com\esapiFilter\filters\SanitizedRequestClass$1.class
+com\esapiFilter\SimpleDSComponent.class
+com\esapiFilter\filters\ESAPIFilter.class
+com\esapiFilter\util\ESAPIMethods.class
+com\esapiFilter\filters\SanitizedRequestClass.class

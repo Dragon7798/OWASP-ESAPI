@@ -1,0 +1,36 @@
+
+E
+java:S3740m"/Provide the parametrized type for this generic.(Ô¸ Ò
+E
+java:S3740m"/Provide the parametrized type for this generic.(Ô¸ Ò
+X
+java:S1163M"=Refactor this code to not throw exceptions in finally blocks.(ÓÙÊÚüÿÿÿÿ
+O
+java:S1143M"4Remove this throw statement from this finally block.(ÓÙÊÚüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÄŸûÿÿÿÿ
+r
+java:S2737G"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(‹“æäùÿÿÿÿ
+r
+java:S2737M"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÓÙÊÚüÿÿÿÿ
+E
+java:S20937"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+M
+java:S1854u"7Remove this useless assignment to local variable "res".(ØÁ™Ÿ
+>
+java:S1481u"(Remove this unused "res" local variable.(ØÁ™Ÿ
+i
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ÿ—‘
+Q
+java:S1161Ÿ":Add the "@Override" annotation above this method signature(Ÿ—‘
+u
+java:S1171¦"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Q
+java:S1161Ä":Add the "@Override" annotation above this method signature(ª©ˆ›
+Q
+java:S1161Ç":Add the "@Override" annotation above this method signature(ôú‡¨
+Q
+java:S1161Ë":Add the "@Override" annotation above this method signature(Ñ®ÏÔ
+V
+java:S1161é":Add the "@Override" annotation above this method signature(ë¯°ÿÿÿÿÿ
+V
+java:S1161ì":Add the "@Override" annotation above this method signature(æÔ«÷şÿÿÿÿ

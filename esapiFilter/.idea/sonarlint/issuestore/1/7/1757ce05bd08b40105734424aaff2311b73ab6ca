@@ -1,0 +1,25 @@
+
+F
+java:S3740æ"/Provide the parametrized type for this generic.(Ú×¬è
+F
+java:S3740ê"/Provide the parametrized type for this generic.(Ôåë¨
+K
+java:S3740î"/Provide the parametrized type for this generic.(Ò™¥æùÿÿÿÿ
+F
+java:S3740ò"/Provide the parametrized type for this generic.(±„«ü
+F
+java:S3740ò"/Provide the parametrized type for this generic.(±„«ü
+j
+java:S1192x"ODefine a constant instead of duplicating this literal "Validate Input" 4 times.(çßœÇùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ëò¯øÿÿÿÿ
+R	java:S107›"<Method has 8 parameters, which is greater than 7 authorized.(”î°
+š
+java:S1130G"ƒRemove the declaration of thrown exception 'org.owasp.esapi.errors.ValidationException', as it cannot be thrown from method's body.(½ë‡ô
+š
+java:S1130_"ƒRemove the declaration of thrown exception 'org.owasp.esapi.errors.ValidationException', as it cannot be thrown from method's body.(ñÕÊ¢
+š
+java:S1130k"ƒRemove the declaration of thrown exception 'org.owasp.esapi.errors.ValidationException', as it cannot be thrown from method's body.(‰úº
+š
+java:S1130"ƒRemove the declaration of thrown exception 'org.owasp.esapi.errors.ValidationException', as it cannot be thrown from method's body.(›ÇçÒ
+š
+java:S1130¾"‚Remove the declaration of thrown exception 'org.owasp.esapi.errors.IntegrityException', as it cannot be thrown from method's body.(Ú³–ô
